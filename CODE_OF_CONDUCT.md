@@ -1,8 +1,9 @@
-# edulayer-docs
+# Code of Conduct (Davranış Kuralları)
 
-The Documentation of EduLayer Academy Class.
+...
 
 # License
+
 
 Copyright (C)  2023 Edulayer and contributors
 
